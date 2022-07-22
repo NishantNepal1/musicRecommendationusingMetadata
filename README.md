@@ -1,6 +1,6 @@
 # Music Recommendation System using Metadata
 TEAM: The United Nations for KAIST CS470 project
-
+TEAM MEMBERS: Chloe McCracken, Nishant Nepal, Alexander Semenov, Junhao Zhou 
 ### Install dependencies:
 ```bash
 pip install -r requirements.txt
