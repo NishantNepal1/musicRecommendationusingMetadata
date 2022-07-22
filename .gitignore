@@ -1,0 +1,7 @@
+.idea
+**/.cache
+/data/*
+!data/README.md
+!data/open-data
+/secrets/*
+!secrets/README.md
